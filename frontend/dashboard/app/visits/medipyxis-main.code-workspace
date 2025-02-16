@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "medipyxis-main",
+			"path": "../../../../frontend/medipyxis-main"
+		},
+		{
+			"name": "patient-main",
+			"path": "../../../../frontend/patient-main"
+		},
+		{
+			"name": "medixsim",
+			"path": "../.."
+		},
+		{
+			"name": "frontend",
+			"path": "../../../update/frontend"
+		},
+		{
+			"name": "server",
+			"path": "../../../../backend/server"
+		}
+	],
+	"settings": {}
+}

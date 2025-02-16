@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../backend/server"
+		},
+		{
+			"path": "../../frontend/medipyxis-main"
+		},
+		{
+			"path": "../../frontend/patient-main"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../update/frontend"
+		}
+	],
+	"settings": {}
+}
